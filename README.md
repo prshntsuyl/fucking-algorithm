@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-* [ ] 0 . Must Read Series
+* [ ] Must Read Series
   * [ ] [The Framework for Learning Algorithms and intense problem solving exercises](think_like_computer/Framework%20and%20thoughts%20about%20learning%20data%20structure%20and%20algorithm.md)
   * [ ] [Algs4: Recommended book for Learning Algorithms and Data Structures](think_like_computer/why_i_recommend_algs4.md)
   * [ ] [An analysis of Dynamic Programming](dynamic_programming/AnalysisOfDynamicProgramming.md)
@@ -13,7 +13,7 @@
   * [ ] [Difference Between Process and Thread in Linux](common_knowledge/linuxProcess.md)
   * [ ] [Some Good Online Practice Platforms](common_knowledge/OnlinePraticePlatform.md)
 
-* [ ] I. Dynamic Programming Series
+* [ ] Dynamic Programming Series
   * [ ] [Dynamic Programming in Details](dynamic_programming/AnalysisOfDynamicProgramming.md)
   * [ ] [Dynamic Programming Q&A - What is Optimal Substructure](dynamic_programming/OptimalSubstructure.md)
   * [ ] [Classic DP: Longest Common Subsequence](dynamic_programming/LongestCommonSubsequence.md)
@@ -30,7 +30,7 @@
   * [ ] [Regular Expression](dynamic_programming/RegularExpression.md)
   * [ ] [Longest Increasing Subsequence](dynamic_programming/LongestIncreasingSubsequence.md)
   
-* [ ] II. Data Structures Series
+* [ ] Data Structures Series
   * [ ] [The Framework for Learning Algorithms and intense problem solving exercises](think_like_computer/Framework%20and%20thoughts%20about%20learning%20data%20structure%20and%20algorithm.md)
   * [ ] [Algs4: Recommended book for Learning Algorithms and Data Structures](think_like_computer/why_i_recommend_algs4.md)
   * [ ] [Binary Heap and Priority Queue](data_structure/binary_heap_implements_priority_queues.md)
@@ -42,7 +42,7 @@
   * [ ] [Reverse Part of Linked List via Recursion](data_structure/reverse_part_of_a_linked_list_via_recursion.md)
   * [ ] [Queue Implement Stack/Stack implement Queue](data_structure/ImplementQueueUsingStacksImplementStackUsingQueues.md)
   
-* [ ] III. Algorithmic Thinking Series
+* [ ] Algorithmic Thinking Series
   * [ ] [My Way to Learn Algorithm](think_like_computer/ThewaytoAlgorithmlearning.md)
   * [ ] [The Framework of Backtracking Algorithm](think_like_computer/DetailsaboutBacktracking.md)
   * [ ] [Binary Search in Detail](think_like_computer/DetailedBinarySearch.md)
@@ -63,7 +63,7 @@
   * [ ] [Shuffle Algorithm](think_like_computer/Shuffle_Algorithm.md)
   * [ ] [Recursion In Detail](data_structure/RecursionInDetail.md)
   
-* [ ] IV. High Frequency Interview Series
+* [ ] High Frequency Interview Series
   * [ ] [How to Implement LRU Cache](interview/LRU_algorithm.md)
   * [ ] [How to Find Prime Number Efficiently](interview/Print_PrimeNumbers.md)
   * [ ] [How to Calculate Minimium Edit Distance](dynamic_programming/EditDistance.md)
@@ -83,7 +83,7 @@
   * [ ] [Problems that can be solved in one line](interview/one-line-code-puzzles.md)
   * [ ] [Find Subsequence With Binary Search](interview/findSebesquenceWithBinarySearch.md)
 
-* [ ] V. Common Knowledge
+* [ ] Common Knowledge
   * [ ] [Difference Between Process and Thread in Linux](common_knowledge/linuxProcess.md)
   * [ ] [You Must Know About Linux Shell](common_knowledge/linuxshell.md)
   * [ ] [You Must Know About Cookie and Session](common_knowledge/SessionAndCookie.md)
